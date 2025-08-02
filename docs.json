@@ -25,9 +25,46 @@
           {
             "group": "Mensagens",
             "pages": [
+              "api-reference/message/introduction",
               "api-reference/message/send-text",
-              "api-reference/message/send-image"
-            ]
+              "api-reference/message/send-image",
+              "api-reference/message/send-carousel",
+              "api-reference/message/send-audio",
+              "api-reference/message/send-video",
+              "api-reference/message/send-document",
+              "api-reference/message/send-link",
+              "api-reference/message/send-gif",
+              "api-reference/message/send-sticker",
+              "api-reference/message/send-ptv",
+              "api-reference/message/send-location",
+              "api-reference/message/read-message",
+              "api-reference/message/reply-message",
+              "api-reference/message/pin-message",
+              "api-reference/message/delete-message",
+              "api-reference/message/send-reaction",
+              "api-reference/message/send-remove-reaction",
+              "api-reference/message/send-forward-message",
+              "api-reference/message/send-conctact",
+              "api-reference/message/send-conctacts",
+              "api-reference/message/send-button-actions",
+              "api-reference/message/send-button-list",
+              "api-reference/message/send-button-list-image",
+              "api-reference/message/send-button-list-video",
+              "api-reference/message/send-option-list",
+              "api-reference/message/send-button-otp",
+              "api-reference/message/send-button-pix",
+              "api-reference/message/send-poll",
+              "api-reference/message/send-poll-vote",
+              "api-reference/message/send-location",
+              "api-reference/message/send-event",
+              "api-reference/message/send-edit-event",
+              "api-reference/message/send-order",
+              "api-reference/message/send-order-status-update",
+              "api-reference/message/send-order-paymet-update",
+              "api-reference/message/send-event-reponse",
+              "api-reference/message/send-product",
+              "api-reference/message/send-catalog"
+          ]
           }
         ]
       }
